@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BED CHUTE!!",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-02-15T00:31:38.961717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BED CHUTE!!",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_BED_CHUTE!!_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BED CHUTE!!",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_BED_CHUTE!!_Cö_shu_Nie.txt"
+    }
+  ]
+}
